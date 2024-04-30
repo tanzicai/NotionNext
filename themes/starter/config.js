@@ -53,19 +53,19 @@ const CONFIG = {
   STARTER_FEATURE_4_TITLE_1: '双重防护保障政务云安全底线', // 特性4
   STARTER_FEATURE_4_TEXT_1: '云采用“平台安全+租户安全”相结合的安全能力体系，为用户提供双重保障。', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://xiaotan.tech', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
-  STARTER_ABOUT_TEXT: 'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+  STARTER_ABOUT_TITLE: '一整套信创适配改造上云服务',
+  STARTER_ABOUT_TEXT: '数字化引领，云服务升级， 惠州联通政务云打造信创适配上云新体验  <br /> <br /> 未来，我们还将进一步强化信创云平台的生态建设，横向拓展、纵向贯通，持续打造更多产品和服务、提升功能和性能，进一步推动信创云创新，构建可靠的信创云体系。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
-  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
-  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+  STARTER_ABOUT_BUTTON_URL: 'https://xiaotan.tech',
+  STARTER_ABOUT_IMAGE_1: '/images/starter/hero/jiagoutu.png',
+  STARTER_ABOUT_IMAGE_2: '/images/starter/about/zhiban.png',
+  STARTER_ABOUT_TIPS_1: '2500+',
+  STARTER_ABOUT_TIPS_2: 'vCPU',
+  STARTER_ABOUT_TIPS_3: '政务系统累计使用量',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
@@ -78,9 +78,9 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '',
   STARTER_PRICING_1_PRICE_PERIOD: 'IaaS',
   STARTER_PRICING_1_HEADER: '服务内容',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_1_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+  STARTER_PRICING_1_FEATURES: '标准型虚拟服务器服务,高性能型虚拟服务器服务,国产化物理主机服务器,块存储服务,文件存储服务,对象存储服务,负载均衡服务,国产化等保二级安全服务包,国产化等保三级安全服务包,·······', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: '查看详情',
+  STARTER_PRICING_1_BUTTON_URL: 'https://xiaotan.techcheckout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: '',
   STARTER_PRICING_2_TITLE: '平台计算',
@@ -88,18 +88,18 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '',
   STARTER_PRICING_2_PRICE_PERIOD: 'PaaS',
   STARTER_PRICING_2_HEADER: '服务内容',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_2_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+  STARTER_PRICING_2_FEATURES: '国产关系型数据库,国产非关系型数据库,内存数据库服务,消息中间件,容器引擎,数据仓库,管控计算节点,离线计算节点,性能计算节点,·····', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: '查看详情',
+  STARTER_PRICING_2_BUTTON_URL: 'https://xiaotan.techcheckout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
   STARTER_PRICING_3_TITLE: '软件授权',
   STARTER_PRICING_3_PRICE: '软件即服务',
   STARTER_PRICING_3_PRICE_CURRENCY: '',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_3_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+  STARTER_PRICING_3_FEATURES: '达梦数据库管理系统（单机版、集群、主备）,神通数据库管理系统,金仓数据库管理系统（单机版、集群、主备）,瀚高数据库管理系统（单机版、集群、主备）,南大通用数据库管理系统（单机版、集群、主备）,电信teleDB（包含主备、集群组件）,金蝶天燕应用服务器中间件,东方通应用服务器中间件,宝兰德应用服务器中间件,中创应用服务器中间件,普元应用服务器中间件,TAS应用服务器中间件', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: '查看详情',
+  STARTER_PRICING_3_BUTTON_URL: 'https://xiaotan.techcheckout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -111,46 +111,32 @@ const CONFIG = {
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TESTIMONIALS_ITEMS: [
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '惠州联通提供的政务云使用体验非常好！我之前一直头疼如何部署复杂的IT系统，服务水平真的让我眼前一亮，部署过程非常简单明了，对于我这种才接触政府项目的开发来说非常友好 ',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '开发商',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '我要给惠州联通政务云点赞！之前因为担心运维难度大而犹豫不决，但他们的服务真的让我刮目相看。不仅及时响应，而且帮助解决一些本来属于我们的问题，非常适合我们这种不懂技术的政府部门使用。',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits（昵称）',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '局办',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '一直想找一个简单易用的云计算来支持我们的政务工作，惠州联通的政务云计算正好满足了我们的需求。整个迁移过程简单明了，功能强大且易于操作，真的是我们政府部门的好帮手！',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND（昵称）',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '集成商',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '之前我们一直在寻找能够进行信创适配改造的厂商，惠州联通完美符合我们的需求。他们的专业团队不仅提供了优质的服务，还积极协助我们完成信创适配，让我们在保障数据安全的同时，也实现了技术的自主可控。',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
-    },
-    {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
-    },
-    {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '局办',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
@@ -160,17 +146,17 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
-  STARTER_FAQ_1_ANSWER: 'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+  STARTER_FAQ_1_QUESTION: '政务云（信创）有帮助文档吗？',
+  STARTER_FAQ_1_ANSWER: '政务云（信创）提供了<a href="https://xiaotan.tech" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
-  STARTER_FAQ_2_ANSWER: '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+  STARTER_FAQ_2_QUESTION: '出现问题怎么和您们联系',
+  STARTER_FAQ_2_ANSWER: '当您在使用惠州联通政务云计算服务过程中遇到问题时，您可以通过页面下方的电话和邮箱与我们取得联系',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
-  STARTER_FAQ_3_ANSWER: '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+  STARTER_FAQ_3_QUESTION: '网络策略打通、开放端口、公网IP等怎么申请',
+  STARTER_FAQ_3_ANSWER: '网络策略打通、开放端口、公网IP等申请，',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
-  STARTER_FAQ_4_ANSWER: '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+  STARTER_FAQ_4_QUESTION: '平台是什么架构',
+  STARTER_FAQ_4_ANSWER: '平台底层采用HCS8.X版本运管平台，提供ARM、X86双芯供给能力，同时提供大量国产化服务。',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
@@ -203,7 +189,7 @@ const CONFIG = {
   ],
 
   // 博客文章区块
-  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
+  STARTER_BLOG_ENABLE: false, // 首页博文区块开关
   STARTER_BLOG_TITLE: '我们的博客',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '最近的新闻',
@@ -214,9 +200,9 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
+  STARTER_CONTACT_LOCATION_TEXT: '中国，广东惠州',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_EMAIL_TEXT: 'tanzc11@chinaunicom.cn',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
@@ -272,7 +258,7 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '操作文档', URL: 'xiaotan' },
         { TITLE: '帮助支持', URL: 'https://docs.tangly1024.com/article/how-to-question' },
         { TITLE: '合作申请', URL: 'https://docs.tangly1024.com/article/my-service' }
       ]
@@ -283,14 +269,6 @@ const CONFIG = {
         { TITLE: '部署指南', URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next' },
         { TITLE: '升级指南', URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext' },
         { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
-      ]
-    },
-    {
-      TITLE: 'Notion写作',
-      LINK_GROUP: [
-        { TITLE: 'Notion开始写作', URL: 'https://docs.tangly1024.com/article/start-to-write' },
-        { TITLE: '快捷键提升效率', URL: 'https://docs.tangly1024.com/article/notion-short-key' },
-        { TITLE: '中国大陆使用Notion', URL: 'https://docs.tangly1024.com/article/notion-faster' }
       ]
     }
   ],
@@ -312,7 +290,7 @@ const CONFIG = {
   STARTER_404_BACK: '回到主页',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
+  STARTER_POST_REDIRECT_URL: 'https://xiaotan.tech', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
