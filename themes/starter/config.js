@@ -62,7 +62,7 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://xiaotan.tech',
   STARTER_ABOUT_IMAGE_1: '/images/starter/hero/jiagoutu.png',
-  STARTER_ABOUT_IMAGE_2: '/images/starter/about/zhiban.png',
+  STARTER_ABOUT_IMAGE_2: '/images/starter/hero/zhiban.png',
   STARTER_ABOUT_TIPS_1: '2500+',
   STARTER_ABOUT_TIPS_2: 'vCPU',
   STARTER_ABOUT_TIPS_3: '政务系统累计使用量',
@@ -97,7 +97,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '达梦数据库管理系统（单机版、集群、主备）,神通数据库管理系统,金仓数据库管理系统（单机版、集群、主备）,瀚高数据库管理系统（单机版、集群、主备）,南大通用数据库管理系统（单机版、集群、主备）,电信teleDB（包含主备、集群组件）,金蝶天燕应用服务器中间件,东方通应用服务器中间件,宝兰德应用服务器中间件,中创应用服务器中间件,普元应用服务器中间件,TAS应用服务器中间件', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '达梦数据库管理系统,神通数据库管理系统,金仓数据库管理系统,瀚高数据库管理系统,南大通用数据库管理系统,以上均包含单机版、集群、主备版,电信teleDB（包含主备、集群组件）,金蝶天燕应用服务器中间件,东方通应用服务器中间件,宝兰德应用服务器中间件,中创应用服务器中间件,普元应用服务器中间件,TAS应用服务器中间件', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '查看详情',
   STARTER_PRICING_3_BUTTON_URL: 'https://xiaotan.techcheckout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
