@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT: '数字化引领，云服务升级， 惠州联通政务云打造信创适配上云新体验  <br /> <br /> 未来，我们还将进一步强化信创云平台的生态建设，横向拓展、纵向贯通，持续打造更多产品和服务、提升功能和性能，进一步推动信创云创新，构建可靠的信创云体系。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://xiaotan.tech',
-  STARTER_ABOUT_IMAGE_1: '/images/starter/hero/jiagoutu.png',
+  STARTER_ABOUT_IMAGE_1: '',
   STARTER_ABOUT_IMAGE_2: '/images/starter/hero/zhiban.png',
   STARTER_ABOUT_TIPS_1: '2500+',
   STARTER_ABOUT_TIPS_2: 'vCPU',
